@@ -25,6 +25,11 @@
 #define ZH_UNICODE_DLG 0x0802
 #define ZH_ABOUT_CAPTION "Notepad++ 的 HTML Tag 插件"
 #define ZH_UNICODE_DLG_CAPTION "更改 Unicode 字符前缀"
+/* taiwaneseMandarin */
+#define TW_ABOUT_DLG 0x0490
+#define TW_UNICODE_DLG 0x0890
+#define TW_ABOUT_CAPTION "Notepad++ 的 HTML Tag 擴充功能"
+#define TW_UNICODE_DLG_CAPTION "變更 Unicode 字元前綴"
 /* dutch */
 #define NL_ABOUT_DLG 0x0403
 #define NL_UNICODE_DLG 0x0803
